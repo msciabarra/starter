@@ -3,3 +3,4 @@ function main(args) {
         "body": "Hello, " + args.name || "world"
     }
 }
+location.href
