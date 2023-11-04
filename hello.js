@@ -1,5 +1,5 @@
 function main(args) {
     return {
-        "body": "Hello, " + args.name || "world"
+        "body": "Hello, " + args.name || " world"
     }
 }
