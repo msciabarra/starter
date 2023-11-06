@@ -8,7 +8,7 @@
 2. Fork this repository
 3. Click on this button got give access to your repo
 
-[<img src="deploy-on-nuvolaris.png">](https://github.com/apps/gh-nuvapp)
+[<img src="nuvolaris-deploy.png">](https://github.com/apps/gh-nuvapp)
 
 We will setup a free account for you.
 
