@@ -6,11 +6,11 @@
 
 1. Get a GitHub account
 2. Fork this repository
-3. Click on this button got give access to your repo
+3. Click on this button to give access to your cloned repository
 
-[<img src="nuvolaris-deploy.png">](https://github.com/apps/gh-nuvapp)
+[<img src="nuvolaris-deploy.png">](https://github.com/apps/gh-nuvolaris-app)
 
-We will setup a free account for you.
+We will setup a free account for you on nuvolaris.dev domain
 
 4. Now press '.' and edit your code directly on GitHub.
-5. Every time you save, it will be deployed on Nuvolaris.
+5. Every time you push your changes, it will be deployed on your Nuvolaris.dev free account
