@@ -6,7 +6,7 @@
 
 1. Get a GitHub account
 2. Fork this repository
-3. Click on this button to give access to your cloned repository
+3. Click on this button to give access to your cloned repository (Keep your cloned repo public and limit access exclusively to this repository)
 
 [<img src="nuvolaris-deploy.png">](https://github.com/apps/gh-nuvolaris-app)
 
